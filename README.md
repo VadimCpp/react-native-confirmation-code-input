@@ -1,4 +1,7 @@
 # react-native-confirmation-code-input
+
+> Все об этом репозитории читайте в [посте](https://frontend-basics.blogspot.com/2019/08/react-native-libs-dilemma.html)
+
 A react-native confirmation code input for both IOS and Android
 
 ## Features
