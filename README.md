@@ -21,7 +21,7 @@ A react-native confirmation code input for both IOS and Android
 ## Installation
 
 ```sh
-npm install git+https://github.com/PujanShah22/react-native-confirmation-code-input.git
+npm install git+https://github.com/vadimcpp/react-native-confirmation-code-input.git
 ```
 
 ## Usage
